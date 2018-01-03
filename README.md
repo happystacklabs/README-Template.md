@@ -1,4 +1,4 @@
-<img src=".github/happystack.png" alt="Happystack" width="150" height="150" />
+<img src="github/happystack.png" alt="Happystack" width="150" height="150" />
 
 # Happystack 🏃🏼Runner
 ![Version](https://img.shields.io/badge/Version-0.0.0-green.svg?style=flat)
